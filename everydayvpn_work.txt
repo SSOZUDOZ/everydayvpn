@@ -1,4 +1,4 @@
-#profile-title: EveryDayVPN
+#profile-title: EveryDayVPN Bypass
 #profile-update-interval: 2
 #support-url: https://t.me/EverydayVPN_channel
 #announce: Заряжен китайскими технологиями, против цензуры в интернете!
